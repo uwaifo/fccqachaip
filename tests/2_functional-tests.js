@@ -324,3 +324,5 @@ suite('Functional Tests', function() {
     });
   });
 });
+
+//https://github.com/freeCodeCamp/freeCodeCamp/issues/17744
